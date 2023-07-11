@@ -24,4 +24,4 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liz2222&show_icons=true&locale=en&layout=compact" alt="liz2222" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Liz-Adhiabo&" alt="Liz-Adhiambo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Liz-Adhiambo&" alt="Liz-Adhiambo" /></p>
