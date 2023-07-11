@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Elizabeth!</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liz2222&label=Profile%20views&color=0e75b6&style=flat" alt="liz2222" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Liz-Adhiambolabel=Profile%20views&color=0e75b6&style=flat" alt="Liz-Adhiambo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lizzyadhiambo1" target="blank"><img src="https://img.shields.io/twitter/follow/lizzyadhiambo1?logo=twitter&style=for-the-badge" alt="lizzyadhiambo1" /></a> </p>
 
@@ -24,4 +24,4 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liz2222&show_icons=true&locale=en&layout=compact" alt="liz2222" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liz2222&" alt="liz2222" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Liz-Adhiabo&" alt="Liz-Adhiambo" /></p>
